@@ -1,0 +1,103 @@
+#background {
+	background-image:  url("temp_header@2x.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+#headerdiv {
+	height: 100px;
+	
+
+}
+
+
+#logoimg {
+	padding-left: 100px;
+}
+
+#nav1 {
+	position: relative;
+  	top: 50%;
+  	-webkit-transform: translateY(-50%);
+}
+
+#nav01 {
+	float: right;
+}
+
+ul#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    float:right;list-style-type:none;
+    }
+
+    
+
+ul#menu li {
+    float: left;
+}
+
+ul#menu li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+}
+
+ul#menu li a:hover:not(.active) {
+    background-color: grey;
+}
+
+#main{
+	padding: 120px;
+
+}
+
+#browse {
+	color: white;
+	background-color: transparent;
+	text-align: left;
+
+}
+button.browse {
+	border: white;
+	font-size: 24px;
+	padding: 30px;
+	background: blue;
+
+
+}
+
+#photogrid{
+	height: 600px
+}
+
+#contactus{
+	height: 300px;
+	background: grey;
+	text-align: center;
+}
+
+#notsureyet{
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+}
+
+button.contactus {
+	background-color: transparent;
+	height: 80px;
+	width: 500px;
+	border-style: solid;
+	border-color: white;
+	border-width: 4px;
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	color: white;
+}
