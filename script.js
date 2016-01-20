@@ -4,6 +4,7 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='index.html'>Home</a></li>" +
 "<li><a href='about.html'>About</a></li>" +
 "<li><a href='contactus.html'>Contact us</a></li>" +
+// "<li><button href='requestquote.html'> Request quote </button></li>" +
 "</ul>";
 
 // document.getElementById("footer").innerHTML = 
