@@ -111,7 +111,7 @@ padding-right: 100px;
 	font-size: 48px;
 	color: white;
 	text-decoration: bold;
-	background-color: black;
+	/*background-color: black;*/
 	display: inline-block;
 	padding-right: 10px;
 }
@@ -132,8 +132,8 @@ button.browse {
 	font-size: 24px;
 	font-weight: bold;
 	padding: 30px;
-	background: white;
-	color:black;
+	background: black;
+	color:rgba();
 
 }
 
@@ -189,7 +189,7 @@ button.contactus {
 	border-width: 4px;
 	font-size: 40px;
 	font-family: sans-serif;
-	font-weight: bold;
+	font-weight: lighter;
 	color: white;
 	opacity: 0.6;
 }
